@@ -1,6 +1,6 @@
 import logo from "../assets/logo1.png";
 import Icons from "./icons";
-import resume from "../assets/resume.pdf";
+import resume from "../assets/Resume.pdf";
 
 const Navbar = () => {
   return (
